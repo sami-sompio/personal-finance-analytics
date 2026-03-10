@@ -159,6 +159,30 @@ This project demonstrates:
 - documentation discipline
 - privacy aware analytics delivery
 
+## What This Project Demonstrates
+
+This repository is designed to show practical analytics skills across the full workflow:
+
+- ingestion of raw style CSV inputs
+- transformation and standardization in Python
+- rule based categorization design
+- reproducible output generation
+- dimensional modeling for BI
+- Power BI ready semantic structure
+- privacy safe public project delivery
+
+## How to Review This Repository
+
+A good review path for this project is:
+
+1. Read the project summary and architecture documents
+2. Inspect the synthetic sample datasets in `data/sample/`
+3. Review the example categorization rules in `rules/`
+4. Run the Python pipeline from `src/main.py`
+5. Inspect the generated outputs and documented Power BI workflow
+
+This mirrors how the full analytics process is structured from raw data to reporting.
+
 ## Future Improvements
 
 Possible future enhancements:
