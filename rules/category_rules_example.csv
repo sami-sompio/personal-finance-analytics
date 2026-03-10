@@ -1,0 +1,7 @@
+match_type,match_value,assigned_category,notes
+contains,Salary,Income,Example income rule
+contains,Rent,Housing,Example housing rule
+contains,Market,Groceries,Example grocery rule
+contains,Fuel,Transport,Example transport rule
+contains,Stream,Entertainment,Example subscription rule
+contains,Electric,Utilities,Example utilities rule

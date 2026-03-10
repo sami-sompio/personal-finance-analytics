@@ -1,0 +1,59 @@
+transaction_id,transaction_date,account_type,account_name,category,merchant,description,amount,currency,payment_method,notes
+TXN0001,2025-01-02,Expense,Groceries,Food & Dining,FreshMart,Weekly grocery shopping,-84.25,EUR,Debit Card,Synthetic sample row
+TXN0002,2025-01-03,Expense,Rent,Housing,North Harbor Properties,Monthly apartment rent,-950.00,EUR,Bank Transfer,Synthetic sample row
+TXN0003,2025-01-04,Income,Salary,Income,Northwind Analytics,Monthly salary,3200.00,EUR,Bank Transfer,Synthetic sample row
+TXN0004,2025-01-05,Expense,Electricity,Housing,City Energy,Electric utility bill,-48.70,EUR,Direct Debit,Synthetic sample row
+TXN0005,2025-01-06,Expense,Coffee Shops,Food & Dining,Cafe Linden,Morning coffee,-5.40,EUR,Debit Card,Synthetic sample row
+TXN0006,2025-01-07,Expense,Public Transport,Transport,Metro Transit,Monthly transit card,-62.00,EUR,Credit Card,Synthetic sample row
+TXN0007,2025-01-08,Expense,Streaming,Entertainment,StreamBox,Monthly streaming subscription,-12.99,EUR,Credit Card,Synthetic sample row
+TXN0008,2025-01-09,Expense,Restaurants,Food & Dining,Bistro Central,Dinner with friends,-36.50,EUR,Debit Card,Synthetic sample row
+TXN0009,2025-01-10,Expense,Pharmacy,Health,WellLife Pharmacy,Vitamins and essentials,-18.20,EUR,Debit Card,Synthetic sample row
+TXN0010,2025-01-11,Expense,Fuel,Transport,Shell,Fuel purchase,-55.00,EUR,Credit Card,Synthetic sample row
+TXN0011,2025-01-12,Expense,Mobile Phone,Utilities,Telco Finland,Mobile plan,-24.90,EUR,Direct Debit,Synthetic sample row
+TXN0012,2025-01-13,Income,Freelance,Income,Client Project,Freelance invoice payment,480.00,EUR,Bank Transfer,Synthetic sample row
+TXN0013,2025-01-14,Expense,Insurance,Insurance,Nordic Insurance,Home insurance premium,-22.50,EUR,Direct Debit,Synthetic sample row
+TXN0014,2025-01-15,Expense,Gym,Health,FitClub,Monthly gym membership,-39.99,EUR,Credit Card,Synthetic sample row
+TXN0015,2025-01-16,Expense,Household Supplies,Household,HomeStore,Cleaning supplies,-21.35,EUR,Debit Card,Synthetic sample row
+TXN0016,2025-01-17,Expense,Groceries,Food & Dining,FreshMart,Mid month grocery refill,-67.80,EUR,Debit Card,Synthetic sample row
+TXN0017,2025-01-18,Expense,Internet,Utilities,FiberNet,Home internet bill,-29.90,EUR,Direct Debit,Synthetic sample row
+TXN0018,2025-01-19,Expense,Books & Learning,Education,BookWorld,Data analytics book,-27.40,EUR,Debit Card,Synthetic sample row
+TXN0019,2025-01-20,Expense,Clothing,Shopping,NordStyle,Winter gloves,-19.95,EUR,Debit Card,Synthetic sample row
+TXN0020,2025-01-21,Income,Interest,Income,Example Bank,Monthly savings interest,4.82,EUR,Bank Transfer,Synthetic sample row
+TXN0021,2025-01-22,Expense,Restaurants,Food & Dining,Sushi Point,Lunch outing,-14.80,EUR,Debit Card,Synthetic sample row
+TXN0022,2025-01-23,Expense,Software,Technology,Notely Pro,Productivity app subscription,-8.50,EUR,Credit Card,Synthetic sample row
+TXN0023,2025-01-24,Expense,Healthcare,Health,Dental Clinic,Routine dental check,-75.00,EUR,Debit Card,Synthetic sample row
+TXN0024,2025-01-25,Expense,Gifts,Discretionary,Gift House,Birthday gift,-30.00,EUR,Debit Card,Synthetic sample row
+TXN0025,2025-01-26,Expense,Travel,Transport,VR Rail,Train ticket,-18.60,EUR,Debit Card,Synthetic sample row
+TXN0026,2025-01-27,Expense,Savings Transfer,Savings,Example Bank,Transfer to savings account,-300.00,EUR,Bank Transfer,Synthetic sample row
+TXN0027,2025-01-28,Expense,Groceries,Food & Dining,FreshMart,End of month groceries,-73.15,EUR,Debit Card,Synthetic sample row
+TXN0028,2025-01-29,Income,Reimbursement,Income,Employer Cafeteria,Cafeteria reimbursement,22.00,EUR,Bank Transfer,Synthetic sample row
+TXN0029,2025-01-30,Expense,Electricity,Housing,City Energy,Additional winter usage charge,-15.25,EUR,Direct Debit,Synthetic sample row
+TXN0030,2025-01-31,Expense,Restaurants,Food & Dining,Pizza Corner,Friday takeaway,-17.90,EUR,Debit Card,Synthetic sample row
+TXN0031,2025-02-01,Income,Salary,Income,Northwind Analytics,Monthly salary,3200.00,EUR,Bank Transfer,Synthetic sample row
+TXN0032,2025-02-02,Expense,Rent,Housing,North Harbor Properties,Monthly apartment rent,-950.00,EUR,Bank Transfer,Synthetic sample row
+TXN0033,2025-02-03,Expense,Groceries,Food & Dining,FreshMart,Weekly grocery shopping,-88.60,EUR,Debit Card,Synthetic sample row
+TXN0034,2025-02-04,Expense,Electricity,Housing,City Energy,Electric utility bill,-44.10,EUR,Direct Debit,Synthetic sample row
+TXN0035,2025-02-05,Expense,Coffee Shops,Food & Dining,Cafe Linden,Morning coffee,-5.40,EUR,Debit Card,Synthetic sample row
+TXN0036,2025-02-06,Expense,Public Transport,Transport,Metro Transit,Monthly transit card,-62.00,EUR,Credit Card,Synthetic sample row
+TXN0037,2025-02-07,Expense,Streaming,Entertainment,StreamBox,Monthly streaming subscription,-12.99,EUR,Credit Card,Synthetic sample row
+TXN0038,2025-02-08,Expense,Restaurants,Food & Dining,Burger Harbor,Weekend dinner,-21.50,EUR,Debit Card,Synthetic sample row
+TXN0039,2025-02-09,Expense,Fuel,Transport,Shell,Fuel purchase,-49.00,EUR,Credit Card,Synthetic sample row
+TXN0040,2025-02-10,Expense,Mobile Phone,Utilities,Telco Finland,Mobile plan,-24.90,EUR,Direct Debit,Synthetic sample row
+TXN0041,2025-02-11,Income,Freelance,Income,Client Project,Freelance invoice payment,520.00,EUR,Bank Transfer,Synthetic sample row
+TXN0042,2025-02-12,Expense,Insurance,Insurance,Nordic Insurance,Home insurance premium,-22.50,EUR,Direct Debit,Synthetic sample row
+TXN0043,2025-02-13,Expense,Gym,Health,FitClub,Monthly gym membership,-39.99,EUR,Credit Card,Synthetic sample row
+TXN0044,2025-02-14,Expense,Household Supplies,Household,HomeStore,Laundry detergent and paper goods,-24.75,EUR,Debit Card,Synthetic sample row
+TXN0045,2025-02-15,Expense,Groceries,Food & Dining,FreshMart,Mid month grocery refill,-70.35,EUR,Debit Card,Synthetic sample row
+TXN0046,2025-02-16,Expense,Internet,Utilities,FiberNet,Home internet bill,-29.90,EUR,Direct Debit,Synthetic sample row
+TXN0047,2025-02-17,Expense,Books & Learning,Education,DataCamp,Online learning subscription,-14.99,EUR,Credit Card,Synthetic sample row
+TXN0048,2025-02-18,Expense,Clothing,Shopping,NordStyle,Basic T shirt,-12.95,EUR,Debit Card,Synthetic sample row
+TXN0049,2025-02-19,Income,Interest,Income,Example Bank,Monthly savings interest,4.95,EUR,Bank Transfer,Synthetic sample row
+TXN0050,2025-02-20,Expense,Restaurants,Food & Dining,Soup Factory,Lunch outing,-13.20,EUR,Debit Card,Synthetic sample row
+TXN0051,2025-02-21,Expense,Software,Technology,TaskFlow,Project app subscription,-10.00,EUR,Credit Card,Synthetic sample row
+TXN0052,2025-02-22,Expense,Healthcare,Health,Vision Clinic,Eye exam,-59.00,EUR,Debit Card,Synthetic sample row
+TXN0053,2025-02-23,Expense,Travel,Transport,VR Rail,Train ticket,-22.40,EUR,Debit Card,Synthetic sample row
+TXN0054,2025-02-24,Expense,Savings Transfer,Savings,Example Bank,Transfer to savings account,-300.00,EUR,Bank Transfer,Synthetic sample row
+TXN0055,2025-02-25,Expense,Groceries,Food & Dining,FreshMart,End of month groceries,-76.45,EUR,Debit Card,Synthetic sample row
+TXN0056,2025-02-26,Income,Reimbursement,Income,Employer Travel,Travel reimbursement,35.00,EUR,Bank Transfer,Synthetic sample row
+TXN0057,2025-02-27,Expense,Electricity,Housing,City Energy,Additional winter usage charge,-11.80,EUR,Direct Debit,Synthetic sample row
+TXN0058,2025-02-28,Expense,Restaurants,Food & Dining,Pizza Corner,Friday takeaway,-18.90,EUR,Debit Card,Synthetic sample row
