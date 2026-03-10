@@ -17,6 +17,18 @@ Raw CSV exports
 
 The project is presented as a public portfolio case study for data analytics and BI roles.
 
+## Project Review Guide
+
+If you are reviewing this repository, a good path is:
+
+1. Review the analytics workflow described in the architecture documentation
+2. Inspect the synthetic datasets in `data/sample/`
+3. Review the rule-based categorization examples in `rules/`
+4. Run the Python pipeline from `src/main.py`
+5. Inspect the generated datasets and documented BI model
+
+This reflects how the full analytics process moves from raw data to reporting.
+
 ## Key Features
 
 - Python based transaction ingestion and standardization
