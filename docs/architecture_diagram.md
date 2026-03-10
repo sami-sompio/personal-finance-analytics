@@ -2,6 +2,7 @@
 
 The project follows a layered analytics workflow typical for modern BI systems.
 
+```bash
 Raw Transaction Exports
         │
         ▼
@@ -22,3 +23,4 @@ Power BI Semantic Model
         │
         ▼
 Budget & Expense Dashboards
+```
