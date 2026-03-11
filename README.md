@@ -22,6 +22,26 @@ Raw CSV exports
 
 The project is presented as a public portfolio case study for data analytics and BI roles.
 
+## Dashboard Preview
+
+![Financial Overview](screenshots/financial_overview.png)
+
+## Analytics Workflow
+
+This project demonstrates an end to end analytics pipeline:
+
+Raw transaction exports  
+↓  
+Python ETL pipeline  
+↓  
+Rule based categorization  
+↓  
+Clean transaction dataset  
+↓  
+Power BI star schema model  
+↓  
+Budget analytics dashboards
+
 ## Project Scope
 
 This repository presents a simplified but realistic analytics workflow for personal finance reporting.
@@ -222,6 +242,20 @@ A good review path for this project is:
 5. Inspect the generated outputs and documented Power BI workflow
 
 This mirrors how the full analytics process is structured from raw data to reporting.
+
+## Skills Demonstrated
+
+This project demonstrates practical experience with:
+
+    • Python data pipelines using Pandas and CSV ingestion  
+    • Rule based data categorization workflows  
+    • Data cleaning and transformation  
+    • Dimensional modeling using a star schema  
+    • Power BI semantic modeling  
+    • DAX measures for financial analytics  
+    • Budget versus actual variance analysis  
+    • Reproducible analytics workflows  
+    • Privacy safe data publishing
 
 ## Future Improvements
 
