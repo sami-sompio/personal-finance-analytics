@@ -22,6 +22,23 @@ Raw CSV exports
 
 The project is presented as a public portfolio case study for data analytics and BI roles.
 
+## Project Scope
+
+This repository presents a simplified but realistic analytics workflow for personal finance reporting.
+
+Included in this project:
+
+• synthetic transaction datasets  
+• rule based categorization examples  
+• Python data preparation pipeline  
+• documentation of the analytical model  
+• reproducible output datasets  
+• Power BI modeling guidance  
+
+The public repository intentionally excludes any real financial records or private source exports.
+
+All examples are synthetic or sanitized to demonstrate the workflow without exposing personal data.
+
 ## Project Review Guide
 
 If you are reviewing this repository, a good path is:
