@@ -43,9 +43,9 @@ python src/main.py
 
 ### 7. Open the Power BI report
 
-7. Open the Power BI report
-
+```bash
 Load the processed dataset into Power BI Desktop and recreate the report using the model structure and example screenshots provided in the repository.
+```
 
 ## Important
 
