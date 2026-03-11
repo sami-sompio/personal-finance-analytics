@@ -9,7 +9,7 @@ A portfolio project demonstrating an end to end analytics workflow for personal 
 
 ## Project Summary
 
-This project shows how transaction exports can be transformed into a clean analytical model for budgeting, expense tracking, and reporting.
+This project demonstrates how raw financial transaction exports can be transformed into a structured analytical model using a reproducible Python pipeline and a Power BI star schema.
 
 Workflow:
 
