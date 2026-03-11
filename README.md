@@ -154,7 +154,7 @@ Sanitized screenshots will be stored in the `screenshots/` folder.
 
 Example analytics outputs produced by the pipeline and Power BI model will appear here.
 
-![Budget Dashboard](screenshots/budget_dashboard_example.jpg)
+![Budget Dashboard](screenshots/budget_vs_actual.jpg)
 
 ## Analytics Layer
 
