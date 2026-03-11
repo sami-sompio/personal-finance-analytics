@@ -24,7 +24,7 @@ The project is presented as a public portfolio case study for data analytics and
 
 ## Dashboard Preview
 
-![Financial Overview](screenshots/financial_overview.png)
+![Financial Overview](screenshots/financial_overview.jpg)
 
 ## Analytics Workflow
 
@@ -154,7 +154,7 @@ Sanitized screenshots will be stored in the `screenshots/` folder.
 
 Example analytics outputs produced by the pipeline and Power BI model will appear here.
 
-![Budget Dashboard](screenshots/budget_dashboard_example.png)
+![Budget Dashboard](screenshots/budget_dashboard_example.jpg)
 
 ## Analytics Layer
 
