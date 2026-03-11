@@ -2,6 +2,11 @@
 
 A portfolio project demonstrating an end to end analytics workflow for personal finance reporting, from raw transaction files to a structured Power BI dashboard.
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-brightgreen)
+![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-yellow)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 ## Project Summary
 
 This project shows how transaction exports can be transformed into a clean analytical model for budgeting, expense tracking, and reporting.
