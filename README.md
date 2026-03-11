@@ -22,9 +22,10 @@ Raw CSV exports
 
 The project is presented as a public portfolio case study for data analytics and BI roles.
 
-## Dashboard Preview
+## Power BI Dashboard Preview
 
 ![Financial Overview](screenshots/financial_overview.jpg)
+Example financial overview dashboard built on the processed transaction dataset.
 
 ## Analytics Workflow
 
@@ -152,7 +153,7 @@ Sanitized screenshots will be stored in the `screenshots/` folder.
 
 ## Example Output
 
-Example analytics outputs produced by the pipeline and Power BI model will appear here.
+Example analytics outputs produced by the pipeline and Power BI model.
 
 ![Budget Dashboard](screenshots/budget_vs_actual.jpg)
 
@@ -193,7 +194,6 @@ personal-finance-analytics/
 │  └ sample/
 ├ docs/
 ├ output/
-├ pbix/
 ├ rules/
 ├ screenshots/
 ├ src/
