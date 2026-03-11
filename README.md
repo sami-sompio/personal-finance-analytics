@@ -113,6 +113,12 @@ See `docs/data_model.md` for full details.
 
 Sanitized screenshots will be stored in the `screenshots/` folder.
 
+## Example Output
+
+Example analytics outputs produced by the pipeline and Power BI model will appear here.
+
+![Budget Dashboard](screenshots/budget_dashboard_example.png)
+
 ## Analytics Layer
 
 Measures are organized into the following groups:
